@@ -1,9 +1,9 @@
 import streamlit as st
 from PIL import Image
-st.title("Aplicaciones de Inteligencia Artificial.")
+st.title("Mi Portafolio")
 
 with st.sidebar:
-  st.subheader("Aplicaciones con Inteligencia Artificial.")
+  st.subheader("Aplicaciones.")
   parrafo = (
     "La inteligencia artificial permite mejorar la toma de decisiones con el uso de datos, "
     "automatizar tareas rutinarias y proporcionar análisis avanzados en tiempo real, lo que "
@@ -18,19 +18,19 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
  
- st.subheader("Conversión de texto a voz")
+ st.subheader("Detector Anomalias")
  image = Image.open('txt_to_audio2.png')
  st.image(image, width=190)
  st.write("En la siguiente enlace usaremos una de las aplicaciones usaremos detector anomalias") 
  url = "https://detectoranomalias-8ks8khwvrfqsiusztiknyy.streamlit.app/"
  st.write(f"Detector Anomalias: [Enlace]({url})")
 
- st.subheader("Reconocimiento de Objetos")
+ st.subheader("Predictor de Sensación Térmica")
  image = Image.open('txt_to_audio.png')
  st.image(image, width=200)
- st.write("En la siguiente enlace veremos como se detectan objetos en Imágenes.") 
+ st.write("En la siguiente enlace veremos Predictor de Sensación Térmica.") 
  url = "https://yolov5cmc.streamlit.app/"
- st.write(f"YOLO: [Enlace]({url})")
+ st.write(f"Predictor de Sensación Térmica: [Enlace]({url})")
 
  st.subheader("Entrenando Modelos")
  image = Image.open('OIG5.jpg')
@@ -40,12 +40,12 @@ with col1:
  st.write(f"YOLO: [Enlace]({url})")
 
 with col2: 
- st.subheader("Conversión de voz a texto")
+ st.subheader("Practica 1")
  image = Image.open('OIG8.jpg')
  st.image(image, width=200)
- st.write("En la siguiente veremos una aplicación que usa la conversión de voz a texto.") 
- url = "https://traductorw.streamlit.app/"
- st.write(f"Voz a texto: [Enlace]({url})")
+ st.write("Practica 1 clase") 
+ url = "https://practica1-sgufgmkxikkzdxcjcrs99o.streamlit.app/"
+ st.write(f"practica_1: [Enlace]({url})")
 
  st.subheader("Análisis de Datos")
  image = Image.open('data_analisis.png')
