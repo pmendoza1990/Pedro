@@ -116,7 +116,7 @@ projects = [
     },
     {
         "title": "Series de tiempo",
-        "image": "Chat_pdf.png",
+        "image": "series.png",
         "description": "Análisis de series temporales para detectar patrones, comportamientos cíclicos y tendencias que permiten pronosticar eventos futuros.",
         "url": "https://seriesdetiempo-djycav8uu5mi4tjqtceege.streamlit.app/",
     },
