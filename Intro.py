@@ -74,7 +74,7 @@ projects = [
     },
     {
         "title": "Detector de anomalías",
-        "image": "txt_to_audio.png",
+        "image": "OIG2.jpg",
         "description": "Herramienta para identificar patrones fuera de lo normal en conjuntos de datos, útil en detección temprana y análisis de comportamiento anómalo.",
         "url": "https://detectoranomalias-8ks8khwvrfqsiusztiknyy.streamlit.app/",
     },
@@ -86,7 +86,7 @@ projects = [
     },
     {
         "title": "Práctica 1",
-        "image": "data_analisis.png",
+        "image": "audio_to_txt.png",
         "description": "Actividad introductoria para explorar fundamentos de análisis de datos, visualización y aplicación de conceptos básicos de ciencia de datos.",
         "url": "https://practica1-sgufgmkxikkzdxcjcrs99o.streamlit.app/",
     },
@@ -128,7 +128,7 @@ projects = [
     },
     {
         "title": "Tasa de aprendizaje",
-        "image": "txt_to_audio2.png",
+        "image": "txt_to_audio.png",
         "description": "Proyecto dedicado a evaluar la influencia de la tasa de aprendizaje en el entrenamiento de modelos y su impacto en la convergencia.",
         "url": "https://pmendoza1990-tasa-de-aprendizaje-app-gradient-otra-ob8021.streamlit.app/",
     },
