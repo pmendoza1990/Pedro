@@ -62,25 +62,25 @@ st.markdown('<div class="section-title">Proyectos y aplicaciones</div>', unsafe_
 projects = [
     {
         "title": "Sensores IoT sintéticos",
-        "image": "txt_to_audio2.png",
+        "image": "data_analisis.png",
         "description": "Aplicación para monitorear variables como temperatura, humedad y presión en tiempo real, ideal para la visualización de datos operativos y análisis de sistemas IoT.",
         "url": "https://d64fqn4eudfgfwmpt2tbsi.streamlit.app/",
     },
     {
         "title": "Paralelismo",
-        "image": "data_analisis.png",
+        "image": "audio_to_txt.png",
         "description": "Proyecto enfocado en la optimización computacional mediante paralelismo, mostrando cómo acelerar tareas intensivas de cálculo y análisis de datos.",
         "url": "https://appparalelismo-cjlmjmp8btjkfu27ydnvym.streamlit.app/",
     },
     {
         "title": "Detector de anomalías",
-        "image": "OIG2.jpg",
+        "image": "txt_to_audio2.png",
         "description": "Herramienta para identificar patrones fuera de lo normal en conjuntos de datos, útil en detección temprana y análisis de comportamiento anómalo.",
         "url": "https://detectoranomalias-8ks8khwvrfqsiusztiknyy.streamlit.app/",
     },
     {
         "title": "Modelos de regresión",
-        "image": "OIG8.jpg",
+        "image": "data_analisis.png",
         "description": "Aplicación centrada en la regresión como técnica predictiva para estimar variables numéricas y comprender relaciones entre indicadores.",
         "url": "https://jseulzx2ydfcbdubhsgrgj.streamlit.app/",
     },
@@ -92,7 +92,7 @@ projects = [
     },
     {
         "title": "Pronóstico",
-        "image": "OIG3.jpg",
+        "image": "OIG2.jpg",
         "description": "Proyecto para modelar series temporales y generar predicciones a partir de datos históricos, permitiendo anticipar tendencias y apoyar decisiones.",
         "url": "https://pronostico-gttdnqn7thyz9kyxhujnbd.streamlit.app/",
     },
@@ -104,19 +104,19 @@ projects = [
     },
     {
         "title": "Regresión logística",
-        "image": "OIG4.jpg",
+        "image": "txt_to_audio.png",
         "description": "Aplicación para modelar clasificación binaria mediante regresión logística, útil en evaluaciones de riesgo y categorización de eventos.",
         "url": "https://regresion-logistica-67uy6bann2jjr3vdrmymnq.streamlit.app/",
     },
     {
         "title": "Nivel de crecimiento",
-        "image": "OIG6.jpg",
+        "image": "data_analisis.png",
         "description": "Análisis del crecimiento y evolución de indicadores clave, pensado para visualizar tendencias y evaluar métricas de rendimiento.",
         "url": "https://appnivelcornarepy-29rycltlbdp2dzs5v32xyl.streamlit.app/",
     },
     {
         "title": "Series de tiempo",
-        "image": "data_analisis.png",
+        "image": "Chat_pdf.png",
         "description": "Análisis de series temporales para detectar patrones, comportamientos cíclicos y tendencias que permiten pronosticar eventos futuros.",
         "url": "https://seriesdetiempo-djycav8uu5mi4tjqtceege.streamlit.app/",
     },
@@ -128,7 +128,7 @@ projects = [
     },
     {
         "title": "Tasa de aprendizaje",
-        "image": "txt_to_audio.png",
+        "image": "OIG8.jpg",
         "description": "Proyecto dedicado a evaluar la influencia de la tasa de aprendizaje en el entrenamiento de modelos y su impacto en la convergencia.",
         "url": "https://pmendoza1990-tasa-de-aprendizaje-app-gradient-otra-ob8021.streamlit.app/",
     },
