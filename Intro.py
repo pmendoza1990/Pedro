@@ -80,7 +80,7 @@ projects = [
     },
     {
         "title": "Modelos de regresión",
-        "image": "data_analisis.png",
+        "image": "OIG3.png",
         "description": "Aplicación centrada en la regresión como técnica predictiva para estimar variables numéricas y comprender relaciones entre indicadores.",
         "url": "https://jseulzx2ydfcbdubhsgrgj.streamlit.app/",
     },
