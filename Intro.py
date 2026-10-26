@@ -110,7 +110,7 @@ projects = [
     },
     {
         "title": "Nivel de crecimiento",
-        "image": "data_analisis.png",
+        "image": "OIG6.jpg",
         "description": "Análisis del crecimiento y evolución de indicadores clave, pensado para visualizar tendencias y evaluar métricas de rendimiento.",
         "url": "https://appnivelcornarepy-29rycltlbdp2dzs5v32xyl.streamlit.app/",
     },
