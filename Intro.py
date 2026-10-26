@@ -85,8 +85,8 @@ projects = [
         "url": "https://jseulzx2ydfcbdubhsgrgj.streamlit.app/",
     },
     {
-        "title": "Práctica 1",
-        "image": "audio_to_txt.png",
+        "title": "Explorando Fundamentos de Análisis",
+        "image": "OIG4.jpg",
         "description": "Actividad introductoria para explorar fundamentos de análisis de datos, visualización y aplicación de conceptos básicos de ciencia de datos.",
         "url": "https://practica1-sgufgmkxikkzdxcjcrs99o.streamlit.app/",
     },
